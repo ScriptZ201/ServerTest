@@ -1,0 +1,21 @@
+-------------------------------------------------
+B450 TOMAHAWK (MS-7C02) V1.E BIOS Release
+-------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+- Updated AMD AGESA ComboAm4PI 1.0.0.6
+- Fix HDMI audio lost issue when use AMD RX570 vga card.
+
+3. 2020/6/12
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+- 更新 AMD AGESA ComboAm4PI 1.0.0.6
+- 修正當搭配 AMD RX570 顯卡時, 造成 HDMI Audio失效.
+
+C. 更新日期: 公元2020年6月12號
